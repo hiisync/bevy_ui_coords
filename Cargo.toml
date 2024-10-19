@@ -8,7 +8,7 @@ repository = "https://github.com/hiisync/bevy_ui_coords"
 license = "MIT"
 
 [dependencies]
-bevy = { version = "0.14.2", default-features = false, features = [
+bevy = { version = "0.14", default-features = false, features = [
     "bevy_text",
     "bevy_ui",
 ] }
