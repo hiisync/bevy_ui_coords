@@ -1,0 +1,10 @@
+[package]
+name = "bevy_ui_coords"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = { version = "0.14.2", default-features = false, features = [
+    "bevy_text",
+    "bevy_ui",
+] }
