@@ -2,6 +2,9 @@
 name = "bevy_ui_coords"
 version = "0.1.0"
 edition = "2021"
+description = "Bevy UI coordinates"
+keywords = ["bevy", "ui", "coordinates"]
+repository = "https://github.com/hiisync/bevy_ui_coords"
 
 [dependencies]
 bevy = { version = "0.14.2", default-features = false, features = [
